@@ -31,7 +31,7 @@ You can experience our webapp here: http://23.101.120.3/
 - pytz==2021.1
 - sqlparse==0.4.1
 ## How to configure
-#### 1. Clone to https://github.com/imrijutr/Event-Mentee.git
+#### 1. Clone to https://github.com/Ajinkj/Event-s-Club.git
 `git clone https://github.com/imrijutr/Event-Mentee.git`
 #### 2. Create Virtual Environment 
 `python3 -m venv /path/to/new/virtual/environment`
